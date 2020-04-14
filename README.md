@@ -1,4 +1,4 @@
-# It job watch- Sparta Project :cyclone: :monkey: 
+# It job watch- Sparta Project :cyclone: :monkey:
 
 ## Summary:
 The aim of this project is to create working development, testing and production environment and to build a pipeline to move the code through them using Jenkins. To ensure that this pipeline is automated and using a slave node to have tests that ensure the code is working and pass, so then it can be pushed.
@@ -66,7 +66,8 @@ Explain what these tests test and why
 ```
 
 ## Task 3:
-Build VM using chef
+Build VM using chef first without previsions to track down errors easier and fix them .
+Then use cookbook to provision.
 
 ## Authors
 
