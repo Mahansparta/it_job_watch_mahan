@@ -1,4 +1,5 @@
 # It job watch- Sparta Project :cyclone: :monkey:
+:taco:
 
 ## Summary:
 The aim of this project is to create working development, testing and production environment and to build a pipeline to move the code through them using Jenkins. To ensure that this pipeline is automated and using a slave node to have tests that ensure the code is working and pass, so then it can be pushed.
