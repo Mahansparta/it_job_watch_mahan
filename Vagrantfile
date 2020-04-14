@@ -8,7 +8,7 @@ Vagrant.configure("2") do |config|
     chef.add_recipe "IT-Job-Task"
 
 
-    chef.arguments = "--chef-license accept"   ##Not sure aabout this gonna test to see if it works without it##
+    #chef.arguments = "--chef-license accept"   ## just following documentation##
 
 
 
